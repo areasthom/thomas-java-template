@@ -1,172 +1,97 @@
 # Nome do Projeto
 
-> Frase curta explicando, em uma linha, o que o projeto faz.
+Breve descrição do projeto.
 
 ---
 
-## 📌 Sobre o Projeto
+# Sobre o Projeto
 
-Explique brevemente:
+Descrição detalhada do projeto.
 
-* Qual problema o projeto resolve;
-* Para quem ele foi criado;
-* O que motivou você a desenvolvê-lo.
-
-Exemplo de perguntas para responder:
-
-* O que esse sistema faz?
-* Por que ele seria útil?
-* O que torna esse projeto interessante?
+Este projeto foi desenvolvido com foco em prática de desenvolvimento Java, organização de código e construção de portfólio profissional.
 
 ---
 
-## 🚀 Funcionalidades
+# Funcionalidades
 
-Liste as principais funcionalidades do projeto.
-
-Exemplo:
-
-* [ ] Cadastro de usuários
-* [ ] Login
-* [ ] Cadastro de itens
-* [ ] Busca por nome
-* [ ] Edição de dados
-* [ ] Exclusão de registros
-* [ ] Relatórios
+- Funcionalidade 1
+- Funcionalidade 2
+- Funcionalidade 3
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
-Liste todas as tecnologias, linguagens e ferramentas usadas.
-
-Exemplo:
-
-* Java
-* Spring Boot
-* MySQL
-* HTML
-* CSS
-* JavaScript
-* Maven
-* Git e GitHub
-* NetBeans / IntelliJ / VS Code
+- Java
+- MySQL
+- JDBC
+- NetBeans
 
 ---
 
-## 📚 O Que Aprendi
+# O Que Aprendi
 
-Explique o que você aprendeu ao criar esse projeto.
+Durante o desenvolvimento deste projeto, pratiquei:
 
-Você pode falar sobre:
-
-* Conceitos de programação;
-* Estrutura de projetos;
-* Banco de dados;
-* API REST;
-* Organização de código;
-* Versionamento com Git.
-
-Exemplo:
-
-"Durante o desenvolvimento deste projeto, aprendi a organizar melhor a estrutura de um sistema, trabalhar com APIs REST, usar Git e GitHub para versionamento e aplicar boas práticas de programação."
+- Organização de código
+- Estruturação de projetos Java
+- Integração com banco de dados
+- Boas práticas de programação
+- Git e GitHub
 
 ---
 
-## ⚙️ Como Executar o Projeto
+# Como Executar o Projeto
 
-Explique o passo a passo para rodar o projeto.
+## Clonar repositório
 
 ```bash
-# Clonar o repositório
-git clone LINK_DO_REPOSITORIO
-
-# Entrar na pasta
-cd nome-do-projeto
-
-# Abrir na IDE
-
-# Executar o projeto
+git clone URL_DO_PROJETO
 ```
 
-Se precisar instalar algo, explique aqui também.
+## Abrir no NetBeans
 
-Exemplo:
-
-* Ter Java 17 instalado;
-* Ter Maven instalado;
-* Criar o banco de dados;
-* Configurar o arquivo application.properties.
+1. Abra o NetBeans
+2. Clique em "Open Project"
+3. Selecione a pasta do projeto
 
 ---
 
-## 🗂️ Estrutura do Projeto
+# Estrutura do Projeto
 
-Mostre rapidamente como o projeto está organizado.
-
-```text
+```txt
 src/
- ├── controller/
- ├── service/
- ├── model/
- ├── repository/
- └── config/
+├── model/
+├── service/
+├── repository/
+├── util/
+├── view/
+└── main/
 ```
 
-Depois, explique brevemente a função de cada pasta.
+---
+
+# Melhorias Futuras
+
+- Adicionar interface gráfica
+- Melhorar tratamento de erros
+- Adicionar autenticação
+- Criar testes automatizados
 
 ---
 
-## 💡 Melhorias Futuras
+# Projeto no LinkedIn
 
-Liste ideias do que você ainda pretende adicionar.
-
-Exemplo:
-
-* Melhorar a interface;
-* Adicionar autenticação;
-* Criar testes automatizados;
-* Publicar o projeto online;
-* Adicionar paginação e filtros.
+Link do post no LinkedIn.
 
 ---
 
-## 📷 Imagens do Projeto
-
-Adicione prints ou GIFs mostrando o projeto funcionando.
-
-```md
-![Tela Inicial](caminho-da-imagem)
-```
-
-Sugestões de imagens:
-
-* Tela principal;
-* Cadastro;
-* Resultado funcionando;
-* API no Insomnia/Postman.
-
----
-
-## 🔗 Projeto no LinkedIn
-
-Se você fez uma postagem ou descrição para o LinkedIn, pode deixar o link aqui.
+# Autor
 
 ```text
-Link da publicação:
-```
-
----
-
-## 👤 Autor
-
-Coloque suas informações.
-
-```text
-Nome:
-LinkedIn:
-GitHub:
-E-mail:
+Nome: Thomas Areas
+LinkedIn: https://www.linkedin.com/in/thomas-samuel-da-luz-areas-7a1230346/
+GitHub: https://github.com/areasthom
+E-mail: thomluz.areas@gmail.com
 ```
 ---
-
